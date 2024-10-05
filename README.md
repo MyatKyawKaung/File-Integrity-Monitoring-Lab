@@ -11,3 +11,7 @@ This project aims to monitor critical files from unauthorized modifications, ens
 * Real-time file monitoring: Continuously tracks changes to specified files or directories.
 * Customizable alerts: Allows users to configure email, SMS, or other notification methods.
 * Detailed change logs: Records information about modifications, including timestamp, user, and changes made.
+
+## Prerequisites
+* **Ubuntu Server**: This will host Wazuh server and utilize Wazuh FIM module. </br>
+* **Windows Server** : This will use as a target machine to detect files modifications.
