@@ -1,4 +1,4 @@
-**In this demo, I will be using DigitalOcean cloud provider for my infrastructure and follow the official Wazuh documentation as a reference.**
+### **In this demo, I will be using DigitalOcean cloud provider for my infrastructure and follow the official Wazuh documentation as a reference.**
 
 https://documentation.wazuh.com/current/installation-guide/wazuh-server/installation-assistant.html
 
@@ -73,3 +73,8 @@ Login with the username and password from Wazuh installation. You will be direct
 
 ![image17](https://github.com/user-attachments/assets/e7952522-5efa-4727-90f9-e97ddc0550f9)
 ![image18](https://github.com/user-attachments/assets/6af74e04-25fb-490d-bf02-7e99855c4765)
+
+**NOTE: In case if you forgot username and password for Wazuh, you can always search for credentials under > `wazuh-install-files` > `wazuh-passwords.txt`**
+
+![image19](https://github.com/user-attachments/assets/edb8b0f8-5f6b-4ea2-a05d-a93ceadc4013)
+![image20](https://github.com/user-attachments/assets/db1cdba4-557b-41a4-a4a5-94e5a44f211b)
