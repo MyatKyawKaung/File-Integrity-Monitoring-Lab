@@ -1,6 +1,6 @@
 ## Installing Wazuh Agents on Target Windows Server
  
-*Note:* For more detailed deployment variables for Windows Wazuh Agent Installer, you can reference from Wazuh official documentation websites 
+**_Note: For more detailed deployment variables for Windows Wazuh Agent Installer, you can reference from Wazuh official documentation websites_**
 
 https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-windows.html
 https://documentation.wazuh.com/current/user-manual/agent/agent-enrollment/deployment-variables/deployment-variables-windows.html 
