@@ -16,7 +16,7 @@ Choose Windows package and add your Server IP address
 ![image02](https://github.com/user-attachments/assets/600dba87-61ff-4594-9291-e47773395a3b)
 
 
-Add your Wazuh Agent name, copy the following command and run on powershell as administrator
+Add your Wazuh Agent name, copy the following command and run on powershell as administrator on your WindowsServer2019
 
 ![image03](https://github.com/user-attachments/assets/24a6ca04-9d87-43b1-89f1-bb345e10d88b)
 
