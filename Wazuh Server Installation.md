@@ -61,7 +61,7 @@ curl -sO https://packages.wazuh.com/4.9/wazuh-install.sh
 ```
 
 ```markdown
-bash [wazuh-install.sh](http://wazuh-install.sh/) -a
+bash wazuh-install.sh http://wazuh-install.sh/ -a
 ```
 ![image15](https://github.com/user-attachments/assets/8a6684cb-f3cf-4296-8086-3bbe84dc8af5)
 
