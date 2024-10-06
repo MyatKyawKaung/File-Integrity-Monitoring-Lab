@@ -16,7 +16,7 @@ Choose Windows package and add your Server IP address
 ![image02](https://github.com/user-attachments/assets/600dba87-61ff-4594-9291-e47773395a3b)
 
 
-Add your Wazuh Agent name, copy the following command and run on powershell as administrator on your WindowsServer2019
+Add your Wazuh Agent name, copy the following command and run Powershell as Administrator on your `WindowsServer2019`
 
 ![image03](https://github.com/user-attachments/assets/24a6ca04-9d87-43b1-89f1-bb345e10d88b)
 
@@ -26,7 +26,7 @@ Invoke-WebRequest -Uri https://packages.wazuh.com/4.x/windows/wazuh-agent-4.9.0-
 
 ![image04](https://github.com/user-attachments/assets/d181b9c7-9f52-4992-9d69-68a59730b1c2)
 
-After finished downloading and install Wazuh agent, start Wazuh service
+Once you finished downloading, install Wazuh agent and start Wazuh service
 
 ```markdown
 NET START WazuhSvc
